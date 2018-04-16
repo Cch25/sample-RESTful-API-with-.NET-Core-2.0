@@ -1,0 +1,11 @@
+D:\VIDs\SDBIS\year 2\sem2\PCD\Homework2\MoviesRESTfulAPI\MoviesRESTfulAPI\bin\Debug\netcoreapp2.0\MoviesRESTfulAPI.deps.json
+D:\VIDs\SDBIS\year 2\sem2\PCD\Homework2\MoviesRESTfulAPI\MoviesRESTfulAPI\bin\Debug\netcoreapp2.0\MoviesRESTfulAPI.runtimeconfig.json
+D:\VIDs\SDBIS\year 2\sem2\PCD\Homework2\MoviesRESTfulAPI\MoviesRESTfulAPI\bin\Debug\netcoreapp2.0\MoviesRESTfulAPI.runtimeconfig.dev.json
+D:\VIDs\SDBIS\year 2\sem2\PCD\Homework2\MoviesRESTfulAPI\MoviesRESTfulAPI\bin\Debug\netcoreapp2.0\MoviesRESTfulAPI.dll
+D:\VIDs\SDBIS\year 2\sem2\PCD\Homework2\MoviesRESTfulAPI\MoviesRESTfulAPI\bin\Debug\netcoreapp2.0\MoviesRESTfulAPI.pdb
+D:\VIDs\SDBIS\year 2\sem2\PCD\Homework2\MoviesRESTfulAPI\MoviesRESTfulAPI\obj\Debug\netcoreapp2.0\MoviesRESTfulAPI.csproj.CoreCompileInputs.cache
+D:\VIDs\SDBIS\year 2\sem2\PCD\Homework2\MoviesRESTfulAPI\MoviesRESTfulAPI\obj\Debug\netcoreapp2.0\MoviesRESTfulAPI.AssemblyInfoInputs.cache
+D:\VIDs\SDBIS\year 2\sem2\PCD\Homework2\MoviesRESTfulAPI\MoviesRESTfulAPI\obj\Debug\netcoreapp2.0\MoviesRESTfulAPI.AssemblyInfo.cs
+D:\VIDs\SDBIS\year 2\sem2\PCD\Homework2\MoviesRESTfulAPI\MoviesRESTfulAPI\obj\Debug\netcoreapp2.0\MoviesRESTfulAPI.dll
+D:\VIDs\SDBIS\year 2\sem2\PCD\Homework2\MoviesRESTfulAPI\MoviesRESTfulAPI\obj\Debug\netcoreapp2.0\MoviesRESTfulAPI.pdb
+D:\VIDs\SDBIS\year 2\sem2\PCD\Homework2\MoviesRESTfulAPI\MoviesRESTfulAPI\obj\Debug\netcoreapp2.0\MoviesRESTfulAPI.csprojResolveAssemblyReference.cache
